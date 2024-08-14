@@ -11,7 +11,7 @@ export default function App() {
         <footer>
           This project was coded by Sunita Mousavi{" "}
           <a
-            href="https://github.com/wecodeschool/react-weather-app"
+            href="https://github.com/SuniElVi/react-weather-app"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -19,7 +19,7 @@ export default function App() {
           </a>{" "}
           &{" "}
           <a
-            href="https://suspicious-beaver-111c4d.netlify.com/"
+            href="https://spectacular-blini-8909df.netlify.app/"
             target="_blank"
             rel="noopener noreferrer"
           >
