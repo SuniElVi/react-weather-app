@@ -1,7 +1,11 @@
 import "./App.css";
 
-function App() {
-  return <div className="App"></div>;
+export default function App() {
+  return (
+    <div className="App">
+      <div className="container">
+        <button className="btn btn-primary">hello</button>
+      </div>
+    </div>
+  );
 }
-
-export default App;
